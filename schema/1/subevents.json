@@ -1,0 +1,7 @@
+{
+  "$id": "https://data.prgblockweek.com/schema/1/subevents.json",
+  "type": "array",
+  "items": {
+    "$ref": "https://data.prgblockweek.com/schema/1/subevent.json"
+  }
+}
