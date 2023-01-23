@@ -30,7 +30,7 @@
       ],
       "difficulty": "All Welcome",
       "tags": [
-        "Solarpunk"
+        "solarpunk"
       ],
       "union": "gm-events",
       "logomark": "./logo.png",
@@ -70,6 +70,38 @@
       }
     },
     {
+      "id": "privacyeth",
+      "name": "PrivacyETH 2023 by ETHBrno",
+      "shortname": "PrivacyETH",
+      "types": [
+        "conference"
+      ],
+      "status": "planning",
+      "chains": [
+        "ethereum"
+      ],
+      "org": "UTXO Foundation",
+      "dri": "burningtree",
+      "date": "2023-06-05",
+      "days": 1,
+      "venueName": "Divadlo X10",
+      "venueAddress": "Charvátova 10/39, Praha 1, 110 00",
+      "venueUrl": "https://goo.gl/maps/xpzw6siQFXsJrrWh6",
+      "languages": [
+        "english"
+      ],
+      "attendees": "300",
+      "tags": [
+        "lunarpunk",
+        "privacy",
+        "security"
+      ],
+      "union": "gm-events",
+      "links": {
+        "twitter": "https://twitter.com/PrivacyETHconf"
+      }
+    },
+    {
       "id": "btcprague",
       "name": "BTC Prague 2023",
       "shortname": "BTC Prague",
@@ -100,5 +132,5 @@
       }
     }
   ],
-  "time": "2023-01-23T13:25:51.198Z"
+  "time": "2023-01-23T13:36:33.783Z"
 }
