@@ -5,6 +5,15 @@
   "dataGithubUrl": "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data/23",
   "unions": [
     {
+      "id": "utxo-events",
+      "name": "UTXO Events",
+      "org": "[UTXO Foundation](https://utxo.foundation/)",
+      "description": "Events for a wide local audience, mostly in Czech or Slovak language as a chain agnostic union.",
+      "links": {
+        "web": "https://utxo.events/"
+      }
+    },
+    {
       "id": "gm-events",
       "name": "GM Events",
       "org": "[PWN](https://pwn.finance/)",
@@ -72,6 +81,7 @@
         "slovak"
       ],
       "attendees": "1200",
+      "union": "utxo-events",
       "links": {
         "web": "https://utxo.cz/",
         "docs": "https://docs.utxo.cz/udalosti/23",
@@ -303,5 +313,5 @@
       ]
     }
   ],
-  "time": "2023-01-23T14:14:12.691Z"
+  "time": "2023-01-23T14:17:55.123Z"
 }
