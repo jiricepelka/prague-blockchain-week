@@ -25,42 +25,6 @@
   ],
   "events": [
     {
-      "id": "ethprague",
-      "name": "ETHPrague 2023",
-      "shortname": "ETHPrague",
-      "types": [
-        "hackathon",
-        "conference"
-      ],
-      "status": "planning",
-      "org": "Paralelní Polis",
-      "dri": "",
-      "date": "2023-06-09",
-      "days": 3,
-      "times": "09:00 - 20:00",
-      "venueName": "Paralelní Polis & La Fabrika",
-      "venueUrl": "https://goo.gl/maps/rVo6JRN59aodx5Pj7",
-      "venueAddress": "Dělnická 475/43, 170 00 Praha 7",
-      "languages": [
-        "english"
-      ],
-      "attendees": "600",
-      "chains": [
-        "ethereum"
-      ],
-      "difficulty": "All Welcome",
-      "tags": [
-        "solarpunk"
-      ],
-      "union": "gm-events",
-      "logomark": "./logo.png",
-      "description": "",
-      "links": {
-        "web": "https://ethprague.com/",
-        "twitter": "https://twitter.com/EthPrague"
-      }
-    },
-    {
       "id": "utxo",
       "name": "UTXO.23",
       "shortname": "UTXO",
@@ -233,6 +197,7 @@
         "security"
       ],
       "union": "gm-events",
+      "logo": "https://data.prgblockweek.com/23/assets/events/privacyeth/logo.jpg",
       "links": {
         "twitter": "https://twitter.com/PrivacyETHconf"
       }
@@ -327,7 +292,43 @@
           "photo": "photos/speakers/gleb-naumenko.jpg"
         }
       ]
+    },
+    {
+      "id": "ethprague",
+      "name": "ETHPrague 2023",
+      "shortname": "ETHPrague",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "status": "planning",
+      "org": "Paralelní Polis",
+      "dri": "",
+      "date": "2023-06-09",
+      "days": 3,
+      "times": "09:00 - 20:00",
+      "venueName": "Paralelní Polis & La Fabrika",
+      "venueUrl": "https://goo.gl/maps/rVo6JRN59aodx5Pj7",
+      "venueAddress": "Dělnická 475/43, 170 00 Praha 7",
+      "languages": [
+        "english"
+      ],
+      "attendees": "600",
+      "chains": [
+        "ethereum"
+      ],
+      "difficulty": "All Welcome",
+      "tags": [
+        "solarpunk"
+      ],
+      "union": "gm-events",
+      "logo": "https://data.prgblockweek.com/23/assets/events/ethprague/logo.jpg",
+      "description": "",
+      "links": {
+        "web": "https://ethprague.com/",
+        "twitter": "https://twitter.com/EthPrague"
+      }
     }
   ],
-  "time": "2023-01-23T19:54:18.279Z"
+  "time": "2023-01-23T20:51:57.232Z"
 }
