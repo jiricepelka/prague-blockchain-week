@@ -256,6 +256,7 @@
         "slovak"
       ],
       "attendees": "10000",
+      "logo": "https://data.prgblockweek.com/23/assets/events/btcprague/logo.jpg",
       "links": {
         "web": "https://www.btcprague.com/",
         "twitter": "https://twitter.com/BtcPrague"
@@ -314,5 +315,5 @@
       ]
     }
   ],
-  "time": "2023-01-23T18:26:57.748Z"
+  "time": "2023-01-23T18:34:30.168Z"
 }
