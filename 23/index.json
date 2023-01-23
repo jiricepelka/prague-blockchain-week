@@ -81,7 +81,7 @@
         "slovak"
       ],
       "attendees": "1200",
-      "logo": "https://data.prgblockweek.com/23/assets/events/utxo-logo.jpg",
+      "logo": "https://data.prgblockweek.com/23/.assets/events/utxo-logo.jpg",
       "union": "utxo-events",
       "links": {
         "web": "https://utxo.cz/",
@@ -314,5 +314,5 @@
       ]
     }
   ],
-  "time": "2023-01-23T15:23:30.130Z"
+  "time": "2023-01-23T15:26:28.523Z"
 }
