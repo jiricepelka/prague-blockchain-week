@@ -3,6 +3,17 @@
   "name": "Prague Blockchain Week 2023",
   "dataUrl": "https://data.prgblockweek.com/23",
   "dataGithubUrl": "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data/23",
+  "unions": [
+    {
+      "id": "gm-events",
+      "name": "GM Events",
+      "org": "[PWN](https://pwn.finance/)",
+      "description": "The best Ethereum, Web3 and DeFi events.",
+      "links": {
+        "web": "https://gm.events/"
+      }
+    }
+  ],
   "events": [
     {
       "id": "ethprague",
@@ -292,5 +303,5 @@
       ]
     }
   ],
-  "time": "2023-01-23T13:40:34.405Z"
+  "time": "2023-01-23T14:03:23.514Z"
 }
