@@ -1,6 +1,8 @@
 {
   "id": "23",
   "name": "Prague Blockchain Week 2023",
+  "dataUrl": "https://data.prgblockweek.com/23",
+  "dataGithubUrl": "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data/23",
   "events": [
     {
       "id": "utxo",
@@ -28,5 +30,5 @@
       "description": ""
     }
   ],
-  "time": "2023-01-23T00:19:10.889Z"
+  "time": "2023-01-23T00:26:08.440Z"
 }
