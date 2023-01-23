@@ -105,8 +105,8 @@
             "web:png",
             "twitter:jpg"
           ],
-          "photoUrl": "https://data.prgblockweek.com/23/assets/events/utxo/photos/speakers/petr-lukáč.png",
-          "photo": "photos/speakers/petr-lukáč.png"
+          "photoUrl": "https://data.prgblockweek.com/23/assets/events/utxo/photos/speakers/petr-lukac.png",
+          "photo": "photos/speakers/petr-lukac.png"
         },
         {
           "id": "tereza-starostova",
@@ -121,8 +121,8 @@
           "photos": [
             "twitter:jpg"
           ],
-          "photoUrl": "https://data.prgblockweek.com/23/assets/events/utxo/photos/speakers/tereza-starostová.jpg",
-          "photo": "photos/speakers/tereza-starostová.jpg"
+          "photoUrl": "https://data.prgblockweek.com/23/assets/events/utxo/photos/speakers/tereza-starostova.jpg",
+          "photo": "photos/speakers/tereza-starostova.jpg"
         },
         {
           "id": "tree",
@@ -329,5 +329,5 @@
       ]
     }
   ],
-  "time": "2023-01-23T19:46:14.567Z"
+  "time": "2023-01-23T19:54:18.279Z"
 }
