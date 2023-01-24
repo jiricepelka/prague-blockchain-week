@@ -17,6 +17,20 @@
       "type": "string",
       "title": "Name"
     },
+    "description": {
+      "type": "string"
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "english",
+          "czech",
+          "slovak"
+        ]
+      }
+    },
     "logo": {
       "type": "string"
     },

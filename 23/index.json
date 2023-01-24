@@ -368,13 +368,82 @@
   ],
   "media-partners": [
     {
+      "id": "pp",
+      "name": "Paralelní Polis",
+      "description": "art - science - technology",
+      "languages": [
+        "english"
+      ],
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/pp/logo.png",
+      "links": {
+        "web": "https://www.paralelnipolis.cz/",
+        "twitter": "https://twitter.com/Paralelni_polis"
+      }
+    },
+    {
+      "id": "kryptomagazin",
+      "name": "KryptomagazinCZ",
+      "description": "Zpravodajský portál o kryptoměnách",
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/kryptomagazin/logo.jpg",
+      "languages": [
+        "czech"
+      ],
+      "links": {
+        "web": "https://kryptomagazin.cz/"
+      }
+    },
+    {
       "id": "crypto-nomads",
       "name": "Crypto Nomads Club",
+      "description": "A community for crypto nomads",
       "logo": "https://data.prgblockweek.com/23/assets/media-partners/crypto-nomads/logo.png",
+      "languages": [
+        "english"
+      ],
       "links": {
-        "web": "https://www.cryptonomadsclub.xyz/"
+        "web": "https://www.cryptonomadsclub.xyz/",
+        "twitter": "https://twitter.com/CryptoNomads_gm"
+      }
+    },
+    {
+      "id": "kryptospace",
+      "name": "KryptoSpace",
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/kryptospace/logo.jpg",
+      "description": "Podcast Petra Lukáče je váš průvodce světem kryptoměn",
+      "languages": [
+        "czech"
+      ],
+      "links": {
+        "web": "https://www.kryptospace.cz/",
+        "twitter": "https://twitter.com/RuzovejSlon"
+      }
+    },
+    {
+      "id": "nft-space",
+      "name": "NFT Space",
+      "description": "Novinky a vzdělávací články z NFT, Web3 a Metaverse",
+      "languages": [
+        "czech"
+      ],
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/nft-space/logo.jpg",
+      "links": {
+        "web": "https://www.nftspace.cz/",
+        "twitter": "https://twitter.com/nftspaceczsk"
+      }
+    },
+    {
+      "id": "blockwise",
+      "name": "blockWise",
+      "description": "Newsletter a vzdelávanie o krypte, web3, metaverse, AR",
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/blockwise/logo.png",
+      "languages": [
+        "slovak"
+      ],
+      "links": {
+        "web": "https://www.blockwise.sk/",
+        "facebook": "https://www.facebook.com/blockwise.sk/"
       }
     }
   ],
-  "time": "2023-01-24T03:05:51.378Z"
+  "time": "2023-01-24T03:42:34.046Z"
 }
