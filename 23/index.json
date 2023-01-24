@@ -381,6 +381,18 @@
       }
     },
     {
+      "id": "hvk",
+      "name": "Holky v kryptu",
+      "description": "Dívčí kryptokomunita",
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/hvk/logo.svg",
+      "languages": [
+        "czech"
+      ],
+      "links": {
+        "web": "https://holkyvkryptu.cz/"
+      }
+    },
+    {
       "id": "kryptomagazin",
       "name": "KryptomagazinCZ",
       "description": "Zpravodajský portál o kryptoměnách",
@@ -390,6 +402,20 @@
       ],
       "links": {
         "web": "https://kryptomagazin.cz/"
+      }
+    },
+    {
+      "id": "gweicz",
+      "name": "Gwei.cz",
+      "description": "Czech/Slovak Ethereum community",
+      "languages": [
+        "czech",
+        "slovak"
+      ],
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/gweicz/logo.png",
+      "links": {
+        "web": "https://gwei.cz",
+        "twitter": "https://twitter.com/gweicz"
       }
     },
     {
@@ -445,5 +471,5 @@
       }
     }
   ],
-  "time": "2023-01-24T03:42:34.046Z"
+  "time": "2023-01-24T04:08:53.946Z"
 }
