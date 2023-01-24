@@ -203,6 +203,34 @@
       }
     },
     {
+      "id": "defi-summit",
+      "name": "Prague DeFi Summit",
+      "shortname": "Prague DeFi",
+      "types": [
+        "conference"
+      ],
+      "status": "published",
+      "org": "DuckTape/Paralelní Polis",
+      "dri": "",
+      "date": "2023-06-06",
+      "days": 3,
+      "times": "",
+      "venueName": "Paralelní Polis & La Fabrika",
+      "venueUrl": "https://goo.gl/maps/rVo6JRN59aodx5Pj7",
+      "venueAddress": "Dělnická 475/43, 170 00 Praha 7",
+      "languages": [
+        "english"
+      ],
+      "attendees": "1000",
+      "logo": "https://data.prgblockweek.com/23/assets/events/defi-summit/logo.jpg",
+      "union": "gm-events",
+      "links": {
+        "web": "https://praguedefisummit.com/",
+        "twitter": "https://twitter.com/PragueDefi",
+        "telegram": "https://t.me/+FI4VJCOLZekwZTU1"
+      }
+    },
+    {
       "id": "btcprague",
       "name": "BTC Prague 2023",
       "shortname": "BTC Prague",
@@ -338,5 +366,5 @@
       }
     }
   ],
-  "time": "2023-01-24T01:45:14.533Z"
+  "time": "2023-01-24T01:58:16.341Z"
 }
