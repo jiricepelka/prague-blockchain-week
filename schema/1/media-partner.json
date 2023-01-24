@@ -18,7 +18,8 @@
       "title": "Name"
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "__markdown": true
     },
     "languages": {
       "type": "array",

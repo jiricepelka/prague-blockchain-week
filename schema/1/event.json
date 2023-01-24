@@ -51,7 +51,8 @@
     },
     "org": {
       "type": "string",
-      "title": "Organizator of event"
+      "title": "Organizator of event",
+      "__markdown": true
     },
     "dri": {
       "type": "string",
@@ -95,7 +96,7 @@
       }
     },
     "attendees": {
-      "type": "string",
+      "type": "number",
       "title": "Max number of attendees"
     },
     "chains": {
@@ -133,7 +134,8 @@
       "type": "string"
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "__markdown": true
     },
     "links": {
       "type": "object",

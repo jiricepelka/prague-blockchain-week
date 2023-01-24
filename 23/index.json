@@ -44,7 +44,7 @@
         "czech",
         "slovak"
       ],
-      "attendees": "1200",
+      "attendees": 1200,
       "logo": "https://data.prgblockweek.com/23/assets/events/utxo/logo.jpg",
       "union": "utxo-events",
       "links": {
@@ -190,7 +190,7 @@
       "languages": [
         "english"
       ],
-      "attendees": "300",
+      "attendees": 300,
       "logo": "https://data.prgblockweek.com/23/assets/events/ibcprague/logo.jpg",
       "links": {
         "web": "https://ibcprague.carrd.co/",
@@ -218,7 +218,7 @@
       "languages": [
         "english"
       ],
-      "attendees": "1000",
+      "attendees": 1000,
       "logo": "https://data.prgblockweek.com/23/assets/events/gateway/logo.jpg",
       "links": {
         "web": "https://gateway.events/",
@@ -246,7 +246,7 @@
       "languages": [
         "english"
       ],
-      "attendees": "300",
+      "attendees": 300,
       "tags": [
         "lunarpunk",
         "privacy",
@@ -277,7 +277,7 @@
       "languages": [
         "english"
       ],
-      "attendees": "300",
+      "attendees": 300,
       "logo": "https://data.prgblockweek.com/23/assets/events/dotsama/logo.jpg",
       "links": {
         "twitter": "https://twitter.com/DotsamaPrague"
@@ -300,7 +300,6 @@
       "languages": [
         "english"
       ],
-      "attendees": "",
       "logo": "https://data.prgblockweek.com/23/assets/events/btc-mining/logo.jpg",
       "links": {
         "web": "https://btcminingconf.com/",
@@ -326,7 +325,7 @@
       "languages": [
         "english"
       ],
-      "attendees": "1000",
+      "attendees": 1000,
       "logo": "https://data.prgblockweek.com/23/assets/events/defi-summit/logo.jpg",
       "union": "gm-events",
       "links": {
@@ -359,7 +358,7 @@
         "czech",
         "slovak"
       ],
-      "attendees": "10000",
+      "attendees": 10000,
       "logo": "https://data.prgblockweek.com/23/assets/events/btcprague/logo.jpg",
       "links": {
         "web": "https://www.btcprague.com/",
@@ -454,7 +453,7 @@
       "languages": [
         "english"
       ],
-      "attendees": "600",
+      "attendees": 600,
       "chains": [
         "ethereum"
       ],
@@ -576,5 +575,5 @@
       }
     }
   ],
-  "time": "2023-01-24T04:29:04.971Z"
+  "time": "2023-01-24T05:05:50.473Z"
 }

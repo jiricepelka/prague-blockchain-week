@@ -53,7 +53,8 @@
         },
         "org": {
           "type": "string",
-          "title": "Organizator of event"
+          "title": "Organizator of event",
+          "__markdown": true
         },
         "dri": {
           "type": "string",
@@ -97,7 +98,7 @@
           }
         },
         "attendees": {
-          "type": "string",
+          "type": "number",
           "title": "Max number of attendees"
         },
         "chains": {
@@ -135,7 +136,8 @@
           "type": "string"
         },
         "description": {
-          "type": "string"
+          "type": "string",
+          "__markdown": true
         },
         "links": {
           "type": "object",
@@ -241,7 +243,8 @@
           "title": "Name"
         },
         "description": {
-          "type": "string"
+          "type": "string",
+          "__markdown": true
         },
         "languages": {
           "type": "array",
@@ -525,10 +528,12 @@
           "title": "Name of Event Union"
         },
         "org": {
-          "type": "string"
+          "type": "string",
+          "__markdown": true
         },
         "description": {
-          "type": "string"
+          "type": "string",
+          "__markdown": true
         },
         "links": {
           "type": "object",

@@ -18,10 +18,12 @@
       "title": "Name of Event Union"
     },
     "org": {
-      "type": "string"
+      "type": "string",
+      "__markdown": true
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "__markdown": true
     },
     "links": {
       "type": "object",
