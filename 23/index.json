@@ -234,18 +234,21 @@
       },
       "speakers": [
         {
+          "id": "anita-posch",
           "name": "Anita Posch",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/anita-posch.png",
           "bio": "Bitcoin educator & author",
           "photo": "photos/speakers/anita-posch.png"
         },
         {
+          "id": "dušan-matuška",
           "name": "Dušan Matuška",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/dušan-matuška.png",
           "bio": "Bitcoin educator & miner",
           "photo": "photos/speakers/dušan-matuška.png"
         },
         {
+          "id": "roman-reher",
           "name": "Roman Reher",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/roman-reher.jpg",
           "bio": "Founder of YT channel \"Blocktrainer\"",
@@ -256,6 +259,7 @@
           "photo": "photos/speakers/roman-reher.jpg"
         },
         {
+          "id": "giacomo-zucco",
           "name": "Giacomo Zucco",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/giacomo-zucco.jpg",
           "bio": "Bitcoin entrepreneur & consultant",
@@ -263,18 +267,21 @@
           "photo": "photos/speakers/giacomo-zucco.jpg"
         },
         {
+          "id": "wolf-von-laer",
           "name": "Wolf von Laer",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/wolf-von-laer.jpg",
           "bio": "CEO of Students For Liberty",
           "photo": "photos/speakers/wolf-von-laer.jpg"
         },
         {
+          "id": "benjamin-de-waal",
           "name": "Benjamin de Waal",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/benjamin-de-waal.jpg",
           "bio": "VP Engineering of Swan Bitcoin",
           "photo": "photos/speakers/benjamin-de-waal.jpg"
         },
         {
+          "id": "stephan-livera",
           "name": "Stephan Livera",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/stephan-livera.jpg",
           "bio": "Host of “Stephan Livera Podcast”",
@@ -285,6 +292,7 @@
           "photo": "photos/speakers/stephan-livera.jpg"
         },
         {
+          "id": "gleb-naumenko",
           "name": "Gleb Naumenko",
           "photoUrl": "https://data.prgblockweek.com/23/assets/events/btcprague/photos/speakers/gleb-naumenko.jpg",
           "bio": "Bitcoin Core and Lightning Network developer",
@@ -330,5 +338,5 @@
       }
     }
   ],
-  "time": "2023-01-24T01:29:45.972Z"
+  "time": "2023-01-24T01:45:14.533Z"
 }
