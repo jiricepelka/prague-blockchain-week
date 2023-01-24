@@ -221,6 +221,37 @@
         }
       }
     },
+    "media-partner": {
+      "$id": "https://data.prgblockweek.com/schema/1/media-partner.json",
+      "type": "object",
+      "title": "Media Partner",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$",
+          "title": "ID"
+        },
+        "name": {
+          "type": "string",
+          "title": "Name"
+        },
+        "logo": {
+          "type": "string"
+        },
+        "links": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
+    },
     "speaker": {
       "$id": "https://data.prgblockweek.com/schema/1/speaker.json",
       "type": "object",

@@ -366,5 +366,15 @@
       }
     }
   ],
-  "time": "2023-01-24T01:58:16.341Z"
+  "media-partners": [
+    {
+      "id": "crypto-nomads",
+      "name": "Crypto Nomads Club",
+      "logo": "https://data.prgblockweek.com/23/assets/media-partners/crypto-nomads/logo.png",
+      "links": {
+        "web": "https://www.cryptonomadsclub.xyz/"
+      }
+    }
+  ],
+  "time": "2023-01-24T03:05:51.378Z"
 }
