@@ -170,6 +170,62 @@
       ]
     },
     {
+      "id": "ibcprague",
+      "name": "IBCPrague 2023",
+      "shortname": "IBCPrague",
+      "types": [
+        "conference"
+      ],
+      "status": "planning",
+      "chains": [
+        "cosmos"
+      ],
+      "org": "",
+      "dri": "",
+      "date": "2023-06-06",
+      "days": 1,
+      "venueName": "Divadlo X10",
+      "venueAddress": "Charvátova 10/39, Praha 1, 110 00",
+      "venueUrl": "https://goo.gl/maps/xpzw6siQFXsJrrWh6",
+      "languages": [
+        "english"
+      ],
+      "attendees": "300",
+      "logo": "https://data.prgblockweek.com/23/assets/events/ibcprague/logo.jpg",
+      "links": {
+        "web": "https://ibcprague.carrd.co/",
+        "twitter": "https://twitter.com/IBCPrague"
+      }
+    },
+    {
+      "id": "gateway",
+      "name": "Gateway to Cosmos 2023",
+      "shortname": "Gateway Cosmos",
+      "types": [
+        "conference"
+      ],
+      "status": "planning",
+      "chains": [
+        "cosmos"
+      ],
+      "org": "RockawayX",
+      "dri": "",
+      "date": "2023-06-03",
+      "days": 3,
+      "venueName": "Cubex",
+      "venueAddress": "Na Strži 2097/63, 140 00 Praha 4-Nusle",
+      "venueUrl": "https://goo.gl/maps/vJTjwNR88ovZqd9n7",
+      "languages": [
+        "english"
+      ],
+      "attendees": "1000",
+      "logo": "https://data.prgblockweek.com/23/assets/events/gateway/logo.jpg",
+      "links": {
+        "web": "https://gateway.events/",
+        "twitter": "https://twitter.com/Gateway_Conf"
+      }
+    },
+    {
       "id": "privacyeth",
       "name": "PrivacyETH 2023 by ETHBrno",
       "shortname": "PrivacyETH",
@@ -203,8 +259,57 @@
       }
     },
     {
+      "id": "dotsama",
+      "name": "Dotsama Prague 2023",
+      "shortname": "Dotsama",
+      "types": [
+        "conference"
+      ],
+      "status": "planning",
+      "chains": [
+        "polkadot"
+      ],
+      "org": "",
+      "dri": "",
+      "date": "2023-06-05",
+      "days": 2,
+      "venueName": "TBA",
+      "languages": [
+        "english"
+      ],
+      "attendees": "300",
+      "logo": "https://data.prgblockweek.com/23/assets/events/dotsama/logo.jpg",
+      "links": {
+        "twitter": "https://twitter.com/DotsamaPrague"
+      }
+    },
+    {
+      "id": "btc-mining",
+      "name": "Bitcoin Mining Conference 2023",
+      "shortname": "Bitcoin Mining",
+      "types": [
+        "conference"
+      ],
+      "status": "published",
+      "org": "Braiins",
+      "dri": "",
+      "date": "2023-06-07",
+      "days": 1,
+      "times": "",
+      "venueName": "TBA",
+      "languages": [
+        "english"
+      ],
+      "attendees": "",
+      "logo": "https://data.prgblockweek.com/23/assets/events/btc-mining/logo.jpg",
+      "links": {
+        "web": "https://btcminingconf.com/",
+        "twitter": "https://twitter.com/BTCMiningConf"
+      }
+    },
+    {
       "id": "defi-summit",
-      "name": "Prague DeFi Summit",
+      "name": "Prague DeFi Summit 2023",
       "shortname": "Prague DeFi",
       "types": [
         "conference"
@@ -471,5 +576,5 @@
       }
     }
   ],
-  "time": "2023-01-24T04:08:53.946Z"
+  "time": "2023-01-24T04:29:04.971Z"
 }
