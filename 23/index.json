@@ -5,10 +5,10 @@
   "dataGithubUrl": "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data/23",
   "unions": [
     {
-      "id": "utxo-events",
-      "name": "UTXO Events",
+      "id": "decentralizuj-se",
+      "name": "Decentralizuj se!",
       "org": "[UTXO Foundation](https://utxo.foundation/)",
-      "description": "Events for a wide local audience, mostly in Czech or Slovak language as a chain agnostic union.",
+      "description": "Crypto for beginners and users in local language",
       "links": {
         "web": "https://utxo.events/"
       }
@@ -17,7 +17,7 @@
       "id": "gm-events",
       "name": "GM Events",
       "org": "[PWN](https://pwn.finance/)",
-      "description": "The best Ethereum, Web3 and DeFi events.",
+      "description": "The best Ethereum, Web3 and DeFi events",
       "links": {
         "web": "https://gm.events/"
       }
@@ -46,7 +46,7 @@
       ],
       "attendees": 1200,
       "logo": "https://data.prgblockweek.com/23/assets/events/utxo/logo.jpg",
-      "union": "utxo-events",
+      "union": "decentralizuj-se",
       "links": {
         "web": "https://utxo.cz/",
         "docs": "https://docs.utxo.cz/udalosti/23",
@@ -575,5 +575,5 @@
       }
     }
   ],
-  "time": "2023-01-24T05:05:50.473Z"
+  "time": "2023-01-24T05:48:07.972Z"
 }
