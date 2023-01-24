@@ -80,7 +80,8 @@
     },
     "venueUrl": {
       "type": "string",
-      "title": "Venue map URL"
+      "title": "Venue map URL",
+      "format": "uri"
     },
     "languages": {
       "type": "array",
